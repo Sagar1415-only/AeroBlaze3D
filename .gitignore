@@ -1,0 +1,37 @@
+# ========== Unity Specific ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+*.pidb
+*.user
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ========== Visual Studio ==========
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.userprefs
+*.pidb.meta
+
+# ========== OS / Misc ==========
+.DS_Store
+Thumbs.db
+*.bak
+*.old
+*.orig
+
+# ========== Crash Reports ==========
+sysinfo.txt
